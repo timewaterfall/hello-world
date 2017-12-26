@@ -7,7 +7,7 @@ public class Example_4 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("введіть число");
+		System.out.print("введіть число");
 
 		int n = sc.nextInt();
 
